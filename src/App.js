@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Vinit learn AWS amplify with deploying React
         </a>
       </header>
     </div>
